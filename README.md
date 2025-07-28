@@ -1,3 +1,3 @@
 # learningGit1
 
-This is group 4
+This is group number four
